@@ -8,7 +8,8 @@
 ![](https://img.shields.io/badge/Topic-Github-lighred)
 ![](https://img.shields.io/website?url=https://github.com/mscbuild)
 
-<img width="300" height="168" alt="image" src="https://github.com/user-attachments/assets/7db4cd0b-f56a-4f60-af04-97ca85a89c43" />
+ <img width="308" height="164" alt="image" src="https://github.com/user-attachments/assets/ba8cc2db-51e6-4f02-8d15-650ac5e9b8f8" />
+
 
 
 Generative AI is experiencing rapid growth, and this repository serves as a comprehensive hub for updates on generative AI research, interview materials, notebooks, and more!
