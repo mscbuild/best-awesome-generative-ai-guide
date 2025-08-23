@@ -8,6 +8,9 @@
 ![](https://img.shields.io/badge/Topic-Github-lighred)
 ![](https://img.shields.io/website?url=https://github.com/mscbuild)
 
+<img width="300" height="168" alt="image" src="https://github.com/user-attachments/assets/7db4cd0b-f56a-4f60-af04-97ca85a89c43" />
+
+
 Generative AI is experiencing rapid growth, and this repository serves as a comprehensive hub for updates on generative AI research, interview materials, notebooks, and more!
 
 <a href="https://trendshift.io/repositories/7663" target="_blank"><img src="https://trendshift.io/api/badge/repositories/7663" alt="aishwaryanr%2Fawesome-generative-ai-guide | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
