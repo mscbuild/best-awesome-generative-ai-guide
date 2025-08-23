@@ -317,6 +317,30 @@ Engineering](https://github.com/aishwaryanr/awesome-generative-ai-guide/blob/mai
 #### Comprehensive LLM Code Repositories 
 - [LLM-PlayLab](https://github.com/Sakil786/LLM-PlayLab) This playlab encompasses a multitude of projects crafted through the utilization of Transformer Models
 
+  <div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto">Developer tools</h3><a id="user-content-developer-tools" class="anchor" aria-label="Permalink: Developer tools" href="#developer-tools"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><a href="https://cohere.ai/" rel="nofollow">co:here</a> - Cohere provides access to advanced Large Language Models and NLP tools.</li>
+<li><a href="https://haystack.deepset.ai/" rel="nofollow">Haystack</a> - A framework for building NLP applications (e.g. agents, semantic search, question-answering) with language models.</li>
+<li><a href="https://langchain.com/" rel="nofollow">LangChain</a> - A framework for developing applications powered by language models.</li>
+<li><a href="https://github.com/nomic-ai/gpt4all">gpt4all</a> - A chatbot trained on a massive collection of clean assistant data including code, stories and dialogue.</li>
+<li><a href="https://github.com/pathwaycom/llm-app">LLM App</a> - Open-source Python library to build real-time LLM-enabled data pipeline.</li>
+<li><a href="https://lmql.ai/" rel="nofollow">LMQL</a> - LMQL is a query language for large language models.</li>
+<li><a href="https://www.llamaindex.ai/" rel="nofollow">LlamaIndex</a> - A data framework for building LLM applications over external data.</li>
+<li><a href="https://phoenix.arize.com/" rel="nofollow">Phoenix</a> - Open-source tool for ML observability that runs in your notebook environment, by Arize. Monitor and fine tune LLM, CV and tabular models.</li>
+<li><a href="https://www.cursor.so/" rel="nofollow">Cursor</a> - Cursor is the IDE of the future, built for pair-programming with Powerful AI.</li>
+<li><a href="https://github.com/Xpitfire/symbolicai">SymbolicAI</a> - A neuro-symbolic framework for building applications with LLMs at the core.</li>
+<li><a href="https://vanna.ai/" rel="nofollow">Vanna.ai</a> - An open-source Python RAG framework for SQL generation and related functionality. <a href="https://github.com/vanna-ai/vanna">#opensource</a></li>
+<li><a href="https://portkey.ai/" rel="nofollow">Portkey</a> - A full-stack LLMOps platform for LLM monitoring, caching, and management.</li>
+<li><a href="https://github.com/agenta-ai/agenta">agenta</a> - An open-source end-to-end LLMOps platform for prompt engineering, evaluation, and deployment. #opensource</li>
+<li><a href="https://www.together.ai/" rel="nofollow">Together AI</a> - Train, fine-tune-and run inference on AI models blazing fast, at low cost, and at production scale.</li>
+<li><a href="https://gitingest.com/" rel="nofollow">Gitingest</a> - Turn any Git repository into a simple text digest of its codebase so it can be fed into any LLM. <a href="https://github.com/cyclotruc/gitingest">#opensource</a></li>
+<li><a href="https://repomix.com/" rel="nofollow">Repomix</a> - Pack your codebase into AI-friendly formats. <a href="https://github.com/yamadashy/repomix">#opensource</a></li>
+<li><a href="https://github.com/ggml-org/llama.cpp">llama.cpp</a> - Inference of Meta's LLaMA model (and others) in pure C/C++. #opensource</li>
+<li><a href="https://github.com/microsoft/BitNet">bitnet.cpp</a> - Official inference framework for 1-bit LLMs, by Microsoft. <a href="https://github.com/microsoft/BitNet">#opensource</a></li>
+<li><a href="https://openrouter.ai/" rel="nofollow">OpenRouter</a> - A unified interface for LLMs. <a href="https://github.com/OpenRouterTeam">#opensource</a></li>
+<li><a href="https://github.com/ludwig-ai/ludwig">Ludwig</a> - A low-code framework for building custom AI models like LLMs and other deep neural networks. <a href="https://github.com/ludwig-ai/ludwig">#opensource</a></li>
+</ul>
+
 
 ---
 
