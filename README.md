@@ -1,4 +1,4 @@
-# :star: :bookmark: awesome-generative-ai-guide
+# :star: :bookmark: awesome-generative-ai-guide 🔥
 ![](https://komarev.com/ghpvc/?username=mscbuild) 
  ![](https://img.shields.io/github/license/mscbuild/awesome-generative-ai-guide) 
  ![](https://img.shields.io/badge/PRs-Welcome-green)
