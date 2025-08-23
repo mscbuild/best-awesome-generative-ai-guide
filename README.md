@@ -340,7 +340,22 @@ Engineering](https://github.com/aishwaryanr/awesome-generative-ai-guide/blob/mai
 <li><a href="https://openrouter.ai/" rel="nofollow">OpenRouter</a> - A unified interface for LLMs. <a href="https://github.com/OpenRouterTeam">#opensource</a></li>
 <li><a href="https://github.com/ludwig-ai/ludwig">Ludwig</a> - A low-code framework for building custom AI models like LLMs and other deep neural networks. <a href="https://github.com/ludwig-ai/ludwig">#opensource</a></li>
 </ul>
-
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto">Playgrounds</h3><a id="user-content-playgrounds" class="anchor" aria-label="Permalink: Playgrounds" href="#playgrounds"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><a href="https://platform.openai.com/playground" rel="nofollow">OpenAI Playground</a> - Explore resources, tutorials, API docs, and dynamic examples.</li>
+<li><a href="https://aistudio.google.com/" rel="nofollow">Google AI Studio</a> - A web-based tool to prototype with Gemini and experimental models.</li>
+<li><a href="https://github.com/marketplace/models">GitHub Models</a> - Find and experiment with AI models to develop a generative AI application.</li>
+</ul>
+div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto">Local LLM Deployment</h3><a id="user-content-local-llm-deployment" class="anchor" aria-label="Permalink: Local LLM Deployment" href="#local-llm-deployment"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><a href="https://github.com/ollama/ollama">Ollama</a> - Get up and running with large language models locally.</li>
+<li><a href="https://github.com/open-webui/open-webui">Open WebUI</a> - An extensible, feature-rich, and user-friendly self-hosted AI platform designed to operate entirely offline. #opensource</li>
+<li><a href="https://jan.ai/" rel="nofollow">Jan</a> - Run LLMs like Mistral or Llama2 locally and offline on your computer, or connect to remote AI APIs. <a href="https://github.com/janhq/jan">#opensource</a></li>
+<li><a href="https://msty.app/" rel="nofollow">Msty</a> - A straightworward and powerful interface for local and online AI models.</li>
+<li><a href="https://pygpt.net/" rel="nofollow">PyGPT</a> - Personal desktop AI assistant with chat, vision, agents, image generation, tools and commands, voice control and more. #opensource</li>
+<li><a href="https://llm.datasette.io/" rel="nofollow">LLM</a> - A CLI utility and Python library for interacting with Large Language Models, remote and local. <a href="https://github.com/simonw/llm">#opensource</a></li>
+<li><a href="https://lmstudio.ai" rel="nofollow">LM Studio</a> - Download and run local LLMs on your computer.</li>
+</ul>
 
 ---
 
