@@ -7,7 +7,7 @@
 ![](https://img.shields.io/badge/Topic-Github-lighred)
 ![](https://img.shields.io/website?url=https://github.com/mscbuild)
 
- <img width="1456" height="728" alt="image" src="https://github.com/user-attachments/assets/b33e459d-17be-4787-93cd-95f33b374ec9" />
+ <img width="1456" height="728" alt="best-awesome-generative-ai-guide" src="https://github.com/user-attachments/assets/b33e459d-17be-4787-93cd-95f33b374ec9" />
 
 
 
